@@ -1,12 +1,33 @@
 # About
 
-Gsap Crash Code Workshop Code
+GSAP Crash Course
 
-## React + Vite
+## ⚡ GSAP Animations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**GSAP To**
 
-Currently, two official plugins are available:
+The to() method is used to animate a single element from a starting state to an ending state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**GSAP From**
+
+The from() method is used to animate a single element from an ending state to a starting state.
+
+**GSAP FromTo**
+
+The fromTo() method is used to animate a single element from a starting state to an ending state and vice versa.
+
+**GSAP Timeline**
+
+The timeline() method is used to create a timeline to manage multiple animations.
+
+**GSAP Stagger**
+
+The stagger() method is used to animate multiple elements with a stagger effect.
+
+**GSAP ScrollTrigger**
+
+The ScrollTrigger plugin is used to trigger animations based on the scroll position.
+
+**GSAP Text**
+
+Learn how to animate text with GSAP.
